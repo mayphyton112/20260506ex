@@ -40,7 +40,7 @@ profit = sales - purchase     # 수익 계산
 print(f'수익: {profit:,}원')
 
 # 곱셈(*) 연산자
-Print(10 * 20)
+print(10 * 20)
 print(3.14 * 3)
 
 #문자열 곱셈
@@ -51,7 +51,7 @@ print(str * 3)
 # 방의 넓이를 계산해주는 프로그램을 만들어봅시다
 Width = int(input('가로 입력:'))
 length = int(input('세로 입력:'))
-area = width * length
+area = Width * length
 print(f'방의 넓이: {area}')
 
 #'Good morning' 문자열을 사용자가 입력한 숫자만큼 출력하는 프로그램입니다.
